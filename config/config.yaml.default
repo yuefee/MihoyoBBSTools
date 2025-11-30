@@ -64,11 +64,11 @@ games:
       black_list: []
     # 崩坏: 星穹铁道
     honkai_sr:
-      checkin: true
+      checkin: false
       black_list: []
     #绝区零
     zzz:
-      checkin: true
+      checkin: false
       black_list: []
   #国际服控制区域
   os:
