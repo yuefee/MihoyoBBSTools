@@ -3,7 +3,7 @@ name: Checkin
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 16 * * *' # 0:00 (GMT+8)
+    - cron: '0 22 * * *' # 6:00 (GMT+8)
 
 permissions:
   contents: read
