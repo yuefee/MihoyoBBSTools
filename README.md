@@ -2,7 +2,7 @@
 
 基于 [MihoyoBBSTools](https://github.com/Womsxd/MihoyoBBSTools) 的修改版，以支持 GitHub Actions
 
-不定期同步原仓库.
+不定期同步原仓库
 
 来自原作者的警告：
 
